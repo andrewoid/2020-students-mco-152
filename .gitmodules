@@ -1,3 +1,36 @@
 [submodule "agishtein-mco-152"]
 	path = agishtein-mco-152
 	url = git@github.com:ester-agishtein/agishtein-mco-152.git
+[submodule "gottlieb-mco-152"]
+	path = gottlieb-mco-152
+	url = git@github.com:Mindy712/gottlieb-mco-152.git
+[submodule "berger-mco-152"]
+	path = berger-mco-152
+	url = git@github.com:bergerm613/berger-mco-152.git
+[submodule "alter-mco-152"]
+	path = alter-mco-152
+	url = git@github.com:shiraalter/alter-mco-152.git
+[submodule "komendant-mcon-152"]
+	path = komendant-mcon-152
+	url = git@github.com:jkomendant/komendant-mcon-152.git
+[submodule "orlian-mco-152"]
+	path = orlian-mco-152
+	url = git@github.com:SaraOrlian/orlian-mco-152.git
+[submodule "aufrichtig-mco-152"]
+	path = aufrichtig-mco-152
+	url = git@github.com:TamarAuf/aufrichtig-mco-152.git
+[submodule "weinfeld-mco-152"]
+	path = weinfeld-mco-152
+	url = git@github.com:shweinfeld/weinfeld-mco-152.git
+[submodule "nagel-mco-152"]
+	path = nagel-mco-152
+	url = git@github.com:dnagelCS/nagel-mco-152.git
+[submodule "peikes-mco-152"]
+	path = peikes-mco-152
+	url = git@github.com:rpeikes/peikes-mco-152.git
+[submodule "gutmann-mco-152"]
+	path = gutmann-mco-152
+	url = git@github.com:rachel613g/gutmann-mco-152.git
+[submodule "liebman-mco-152"]
+	path = liebman-mco-152
+	url = git@github.com:lliebman/liebman-mco-152.git

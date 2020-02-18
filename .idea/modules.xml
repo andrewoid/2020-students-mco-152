@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/2020-students-mco-152.iml" filepath="$PROJECT_DIR$/2020-students-mco-152.iml" />
+      <module fileurl="file://$PROJECT_DIR$/alter-mco-152/alter-mco-152.iml" filepath="$PROJECT_DIR$/alter-mco-152/alter-mco-152.iml" />
+      <module fileurl="file://$PROJECT_DIR$/berger-mco-152/berger-mco-152.iml" filepath="$PROJECT_DIR$/berger-mco-152/berger-mco-152.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gottlieb-mco-152/gottlieb-mco-152.iml" filepath="$PROJECT_DIR$/gottlieb-mco-152/gottlieb-mco-152.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gutmann-mco-152/gutmann-mco-152.iml" filepath="$PROJECT_DIR$/gutmann-mco-152/gutmann-mco-152.iml" />
+      <module fileurl="file://$PROJECT_DIR$/komendant-mcon-152/komendant-mcon-152.iml" filepath="$PROJECT_DIR$/komendant-mcon-152/komendant-mcon-152.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nagel-mco-152/nagel-mco-152.iml" filepath="$PROJECT_DIR$/nagel-mco-152/nagel-mco-152.iml" />
+      <module fileurl="file://$PROJECT_DIR$/orlian-mco-152/orlian-mco-152.iml" filepath="$PROJECT_DIR$/orlian-mco-152/orlian-mco-152.iml" />
+      <module fileurl="file://$PROJECT_DIR$/peikes-mco-152/peikes-mco-152.iml" filepath="$PROJECT_DIR$/peikes-mco-152/peikes-mco-152.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weinfeld-mco-152/weinfeld-mco-152.iml" filepath="$PROJECT_DIR$/weinfeld-mco-152/weinfeld-mco-152.iml" />
+    </modules>
+  </component>
+</project>

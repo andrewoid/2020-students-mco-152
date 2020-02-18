@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/alter-mco-152" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/aufrichtig-mco-152" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/berger-mco-152" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gottlieb-mco-152" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gutmann-mco-152" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/komendant-mcon-152" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/nagel-mco-152" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/orlian-mco-152" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/peikes-mco-152" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/weinfeld-mco-152" vcs="Git" />
+  </component>
+</project>
